@@ -16,9 +16,9 @@ This is a modern take on the Anarchist Cookbook. You won't find any recipe for e
 
 * [Index](./hide/index.md)
 
-### Unix
+### Libre software
 
-* [Index](./unix/index.md)
+* [Index](./libre-software/index.md)
 
 ### Windows
 
